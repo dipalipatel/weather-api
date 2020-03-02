@@ -1,0 +1,295 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\714fe88cd8eeeec0d43ebbf31e173f29\databinding-adapters-3.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\c2f3b5a5fdade86893a2e1d2f7d4c621\databinding-runtime-3.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\4a8a2ff61729c0e607bf5eab5726c677\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0c1936c30a85396091c438d3d714fea2\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\252000542978fda28075d3834ad063bc\core-ktx-1.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5ced732566e368c062583722e89e05d0\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2c8e2ce4fe21c1a95608711ad740ccdc\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\1e9209b1e34ff4925f17635547c37694\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ac4c318f3524b695b860955ac1313895\sdp-android-1.0.6\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3a2148ee9edf292c74bacfa2bd7b150a\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\40d9339f31138bf7c706e4d3823dba8e\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e6fdb4efc38a9c99525c1dccfac22d3c\room-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a837a136dc54dc9ed98e12d0247c2530\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e444d8664f6d86c5e6166a47fe3d1110\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\dfb382c2bcaec0641110c18deebfab63\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\75687c7b85bfcee37dce41febd4cc8d5\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\7e5752981e19721716572389d8e731d5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\25565fbf982d927901d11813f7944512\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b7dd6e27fcbc1df54464f35611401b88\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2f549458cbe0883d635781a3f1b47da1\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\8d3ffdff154d2b1595294e4da3cb81ea\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\35caea7eb3c25c7aa0d54d2640c1ffca\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\6bcf783dc2276f6c79ce8b844eb8a2b2\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\28c22dbe0de7682f4dc004d8e0900851\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\7e742424b419d2a7c46e91d4daf262a0\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\78a73cbea52377e83504b8e457ef3076\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\624baa8a800f9d44805a6ecf32ac0d08\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ee06dd431bb166c68f849a8460c506fc\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5213c2365dc50f3f64423cc3b8317eae\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\cc53f0d4de2b687de0f9ff868979e433\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\8c2e859774ba1f35e62dbaae526b7343\lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\127285fce792e3e6ba6741016fb93030\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\395a9c44129374a3cf0092b8799dd124\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ac926b25c553bcc6bbdede61eb1dcb54\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ab7db52eeee434d0ae396a9385ff866a\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e2ec9b89b277a9c0cc645710358909b5\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3cba267c66d5a8919bd81efcf916fc60\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a9c2da073f7c679085897e00a446a2b4\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\242bedae014f734c14a25f4fdfb9c104\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\cf70267d72a9f8ca998b1346b9d7c31c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3cd307279d6763ccc63aa39bf1c0f5c6\sqlite-framework-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\564eb7f59be275171d9d2a021bc628d4\sqlite-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\67841b53bf0c5eabd650f50a84dc1059\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2d4babb74e8978d311e48784ea596d9a\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\6434591f8218011f4ab276849e299ed6\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\972244be96f994f2690f54bd7aec53d7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:8:22-73
+application
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:10:5-34:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\4a8a2ff61729c0e607bf5eab5726c677\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\4a8a2ff61729c0e607bf5eab5726c677\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5ced732566e368c062583722e89e05d0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5ced732566e368c062583722e89e05d0\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2c8e2ce4fe21c1a95608711ad740ccdc\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2c8e2ce4fe21c1a95608711ad740ccdc\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\1e9209b1e34ff4925f17635547c37694\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\1e9209b1e34ff4925f17635547c37694\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a837a136dc54dc9ed98e12d0247c2530\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a837a136dc54dc9ed98e12d0247c2530\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e444d8664f6d86c5e6166a47fe3d1110\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e444d8664f6d86c5e6166a47fe3d1110\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\395a9c44129374a3cf0092b8799dd124\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\395a9c44129374a3cf0092b8799dd124\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:17:9-40
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:11:9-41
+activity#com.weatherdemo.view.WeatherListActivity
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:screenOrientation
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:20:13-49
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:19:13-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.weatherdemo.view.WeatherDetailActivity
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:27:9-29:52
+	android:screenOrientation
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:28:13-55
+meta-data#preloaded_fonts
+ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:31:9-33:57
+	android:resource
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:33:13-54
+	android:name
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:32:13-43
+uses-sdk
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\714fe88cd8eeeec0d43ebbf31e173f29\databinding-adapters-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\714fe88cd8eeeec0d43ebbf31e173f29\databinding-adapters-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\c2f3b5a5fdade86893a2e1d2f7d4c621\databinding-runtime-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\c2f3b5a5fdade86893a2e1d2f7d4c621\databinding-runtime-3.5.3\AndroidManifest.xml:22:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\4a8a2ff61729c0e607bf5eab5726c677\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\4a8a2ff61729c0e607bf5eab5726c677\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0c1936c30a85396091c438d3d714fea2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0c1936c30a85396091c438d3d714fea2\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\252000542978fda28075d3834ad063bc\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\252000542978fda28075d3834ad063bc\core-ktx-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5ced732566e368c062583722e89e05d0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5ced732566e368c062583722e89e05d0\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2c8e2ce4fe21c1a95608711ad740ccdc\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2c8e2ce4fe21c1a95608711ad740ccdc\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\1e9209b1e34ff4925f17635547c37694\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\1e9209b1e34ff4925f17635547c37694\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ac4c318f3524b695b860955ac1313895\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ac4c318f3524b695b860955ac1313895\sdp-android-1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3a2148ee9edf292c74bacfa2bd7b150a\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview-selection:1.1.0-rc01] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3a2148ee9edf292c74bacfa2bd7b150a\recyclerview-selection-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\40d9339f31138bf7c706e4d3823dba8e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\40d9339f31138bf7c706e4d3823dba8e\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e6fdb4efc38a9c99525c1dccfac22d3c\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e6fdb4efc38a9c99525c1dccfac22d3c\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a837a136dc54dc9ed98e12d0247c2530\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a837a136dc54dc9ed98e12d0247c2530\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e444d8664f6d86c5e6166a47fe3d1110\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e444d8664f6d86c5e6166a47fe3d1110\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\dfb382c2bcaec0641110c18deebfab63\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\dfb382c2bcaec0641110c18deebfab63\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\75687c7b85bfcee37dce41febd4cc8d5\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\75687c7b85bfcee37dce41febd4cc8d5\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\7e5752981e19721716572389d8e731d5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\7e5752981e19721716572389d8e731d5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\25565fbf982d927901d11813f7944512\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\25565fbf982d927901d11813f7944512\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b7dd6e27fcbc1df54464f35611401b88\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b7dd6e27fcbc1df54464f35611401b88\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2f549458cbe0883d635781a3f1b47da1\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2f549458cbe0883d635781a3f1b47da1\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\8d3ffdff154d2b1595294e4da3cb81ea\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\8d3ffdff154d2b1595294e4da3cb81ea\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\35caea7eb3c25c7aa0d54d2640c1ffca\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\35caea7eb3c25c7aa0d54d2640c1ffca\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\6bcf783dc2276f6c79ce8b844eb8a2b2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\6bcf783dc2276f6c79ce8b844eb8a2b2\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\28c22dbe0de7682f4dc004d8e0900851\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\28c22dbe0de7682f4dc004d8e0900851\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\7e742424b419d2a7c46e91d4daf262a0\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\7e742424b419d2a7c46e91d4daf262a0\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\78a73cbea52377e83504b8e457ef3076\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\78a73cbea52377e83504b8e457ef3076\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\624baa8a800f9d44805a6ecf32ac0d08\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\624baa8a800f9d44805a6ecf32ac0d08\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ee06dd431bb166c68f849a8460c506fc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ee06dd431bb166c68f849a8460c506fc\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5213c2365dc50f3f64423cc3b8317eae\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\5213c2365dc50f3f64423cc3b8317eae\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\cc53f0d4de2b687de0f9ff868979e433\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\cc53f0d4de2b687de0f9ff868979e433\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\8c2e859774ba1f35e62dbaae526b7343\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\8c2e859774ba1f35e62dbaae526b7343\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\127285fce792e3e6ba6741016fb93030\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\127285fce792e3e6ba6741016fb93030\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\395a9c44129374a3cf0092b8799dd124\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\395a9c44129374a3cf0092b8799dd124\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ac926b25c553bcc6bbdede61eb1dcb54\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ac926b25c553bcc6bbdede61eb1dcb54\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ab7db52eeee434d0ae396a9385ff866a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\ab7db52eeee434d0ae396a9385ff866a\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e2ec9b89b277a9c0cc645710358909b5\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\e2ec9b89b277a9c0cc645710358909b5\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3cba267c66d5a8919bd81efcf916fc60\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3cba267c66d5a8919bd81efcf916fc60\lifecycle-livedata-core-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a9c2da073f7c679085897e00a446a2b4\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a9c2da073f7c679085897e00a446a2b4\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\242bedae014f734c14a25f4fdfb9c104\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\242bedae014f734c14a25f4fdfb9c104\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\cf70267d72a9f8ca998b1346b9d7c31c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\cf70267d72a9f8ca998b1346b9d7c31c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3cd307279d6763ccc63aa39bf1c0f5c6\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\3cd307279d6763ccc63aa39bf1c0f5c6\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\564eb7f59be275171d9d2a021bc628d4\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\564eb7f59be275171d9d2a021bc628d4\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\67841b53bf0c5eabd650f50a84dc1059\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\67841b53bf0c5eabd650f50a84dc1059\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2d4babb74e8978d311e48784ea596d9a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\2d4babb74e8978d311e48784ea596d9a\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\6434591f8218011f4ab276849e299ed6\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\6434591f8218011f4ab276849e299ed6\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\972244be96f994f2690f54bd7aec53d7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\972244be96f994f2690f54bd7aec53d7\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79

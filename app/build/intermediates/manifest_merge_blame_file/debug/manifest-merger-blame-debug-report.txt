@@ -1,0 +1,105 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.weatherdemo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:5:5-81
+11-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:5:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:6:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:7:5-67
+13-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:8:5-76
+14-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:8:22-73
+15
+16    <application
+16-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:10:5-34:19
+17        android:name="com.weatherdemo.ApplicationClass"
+17-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:11:9-41
+18        android:allowBackup="true"
+18-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:12:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\a83bef444c9240faa8e56c19819ce9ad\core-1.1.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:13:9-43
+22        android:label="@string/app_name"
+22-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:14:9-41
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:15:9-54
+24        android:supportsRtl="true"
+24-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme" >
+26-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:17:9-40
+27        <activity
+27-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:18:9-26:20
+28            android:name="com.weatherdemo.view.WeatherListActivity"
+28-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:19:13-53
+29            android:screenOrientation="portrait" >
+29-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:20:13-49
+30            <intent-filter>
+30-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:21:13-25:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:22:17-69
+31-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:22:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:24:17-77
+33-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:24:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:27:9-29:52
+37            android:name="com.weatherdemo.view.WeatherDetailActivity"
+37-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:28:13-55
+38            android:screenOrientation="portrait" />
+38-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:29:13-49
+39
+40        <meta-data
+40-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:31:9-33:57
+41            android:name="preloaded_fonts"
+41-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:32:13-43
+42            android:resource="@array/preloaded_fonts" />
+42-->D:\WeatherDemoApp\app\src\main\AndroidManifest.xml:33:13-54
+43
+44        <activity
+44-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+45            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+45-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+46            android:exported="false"
+46-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+47            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+47-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\bd7ffce8bc7e102b617ae65808d5ed1c\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+48
+49        <meta-data
+49-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+50            android:name="com.google.android.gms.version"
+50-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+51            android:value="@integer/google_play_services_version" />
+51-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\b09947b7c051203e0000a8ba9a65b243\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+52
+53        <provider
+53-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
+54            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+54-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79
+55            android:authorities="com.weatherdemo.lifecycle-process"
+55-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
+56            android:exported="false"
+56-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
+57            android:multiprocess="true" />
+57-->[androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\dipali\.gradle\caches\transforms-2\files-2.1\0661e55369797cfbcda259c94ecab98c\lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
+58    </application>
+59
+60</manifest>

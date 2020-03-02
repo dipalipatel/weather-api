@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather Logger</string>
+    <!--List screen-->
+    <string name="no_record">There is no record for weather logger.\nKindly click above save button to fetch data</string>
+    <string name="temprature">Temprature:</string>
+    <string name="date">Date &amp; Time:</string>
+    <string name="moredetail">More Detail</string>
+
+    <!--Detail screen-->
+    <string name="detail_screen_title">Weather Detail</string>
+    <string name="NameOfArea">Area Name:</string>
+    <string name="latitude">Latitude:</string>
+    <string name="Longitude">Longitude:</string>
+    <string name="min_temp">Min.Temp:</string>
+    <string name="max_temp">Max.Temp:</string>
+    <string name="WindSpeed">Speed fo Wind:</string>
+    <string name="notapplicable">N/A</string>
+    <string name="common_ok">Ok</string>
+    <string name="exitapp_msg">Are you sure to exit the app?</string>
+    <string name="common_yes">Yes</string>
+    <string name="common_no">No</string>
+</resources>

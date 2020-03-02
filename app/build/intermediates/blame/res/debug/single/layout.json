@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\WeatherDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_list_item.xml",
+        "source": "D:\\WeatherDemoApp\\app\\src\\main\\res\\layout\\row_list_item.xml"
+    },
+    {
+        "merged": "D:\\WeatherDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\WeatherDemoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\WeatherDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\row_empty_layout.xml",
+        "source": "D:\\WeatherDemoApp\\app\\src\\main\\res\\layout\\row_empty_layout.xml"
+    },
+    {
+        "merged": "D:\\WeatherDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\weather_detail_activity.xml",
+        "source": "D:\\WeatherDemoApp\\app\\src\\main\\res\\layout\\weather_detail_activity.xml"
+    },
+    {
+        "merged": "D:\\WeatherDemoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\weather_list_activity.xml",
+        "source": "D:\\WeatherDemoApp\\app\\src\\main\\res\\layout\\weather_list_activity.xml"
+    }
+]
